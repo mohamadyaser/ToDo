@@ -1,0 +1,59 @@
+body{
+    background-color: gray;
+
+}
+.div1{
+    border: solid black 1px;
+    background-color: white;
+    width:40%;
+    height: 70%;
+    border-radius: 2%;
+    margin-top: 10%;
+}
+    .inp{
+       
+        background-color: whitesmoke;
+        width: 90%;
+        height: 30%;
+        border-radius: 3%;
+        margin-top: 2%;
+        padding: 3px 35px;
+    }
+    
+    .img { 
+       position : absolute ;
+        margin:12px 10px;
+    }
+    
+    .clear{
+        float: right;
+        border-style: none;
+        background-color: white;
+    }
+    .abmg{
+        float: left;
+        margin-top: -11px;
+    }
+    .all{
+        border-style: none;
+        background-color: white;
+    }
+    .bmg{
+    
+    }
+    .kd{
+        margin-top: 20px;
+    }
+    .oll,.unc,.com{
+        border-style: none;
+        background-color: white;
+    }
+    .full{
+        float: right;
+        margin-top: 15px;
+    }
+    .tas{
+        float: left;
+        
+        
+    }
